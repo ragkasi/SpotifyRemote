@@ -1,0 +1,7 @@
+#include <Arduino.h>
+#include <string>
+const char* PROGMEM ssid = "";
+const char* PROGMEM password = "";
+const char* PROGMEM clientid = "";
+const char* PROGMEM clientsecret = "";
+const char* PROGMEM refreshtoken = "";
